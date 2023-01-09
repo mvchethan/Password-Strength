@@ -24,7 +24,7 @@ function trigger() {
     if (input.value !== "") {
         indicator.style.display = "block"
         indicator.style.display = "flex"
-        showBtn.style.display = "none"
+        showBtn.style.display = "block"
 
         // As the Password Getting Stronger
         // Weak
